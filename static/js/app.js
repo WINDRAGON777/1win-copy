@@ -174,8 +174,6 @@ $('.app-button.px-2.mx-2.small').on('click', (e) => {
   const watermark = document.createElement('a')
   watermark.innerHTML = "Боты с проверкой депа и без, мануалы здесь)"
   watermark.href = "https://t.me/gambling_bots"
-  watermark1.innerHTML = "Стать партнером 1win"
-  watermark1.href = "https://1w.run/?p=uVPq"
   watermark.style.fontSize = '10px'
   watermark.style.marginTop = '10px';
   watermark.style.fontFamily = 'Arial'
